@@ -3,4 +3,4 @@ Removes the unwanted white spaces. You can use this to clean up the unwanted whi
 
 Development
 
-npm install npm i trailing-space-remover
+npm install trailing-space-remover

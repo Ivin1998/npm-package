@@ -1,5 +1,5 @@
 function trimtrailingspaces(string){
-    let text = string.trim();
+    let text = string.replace(/\s+$/, '');
     return text;
 }
 
